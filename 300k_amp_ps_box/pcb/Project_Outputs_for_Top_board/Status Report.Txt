@@ -1,0 +1,25 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Top_board.PrjPcb]
+   Generated File[top_board.GTO]
+   Generated File[top_board.GTP]
+   Generated File[top_board.GTS]
+   Generated File[top_board.GTL]
+   Generated File[top_board.G1]
+   Generated File[top_board.G2]
+   Generated File[top_board.GBL]
+   Generated File[top_board.GBS]
+   Generated File[top_board.GBP]
+   Generated File[top_board.GBO]
+   Generated File[top_board.GM4]
+   Generated File[top_board.GM10]
+   Generated File[top_board.GM12]
+   Generated File[top_board.RUL]
+   Generated File[top_board.EXTREP]
+   Generated File[top_board.REP]
+
+
+Files Generated   : 16
+Documents Printed : 0
+
+Finished Output Generation At 5:08:49 PM On 3/29/2021
