@@ -172,14 +172,17 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 10
-      File : top_board.GM10
+Generating : Bottom Overlay
+      File : top_board.GBO
 
-    Adding Layer      : Mechanical 10
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D11
+    D12
+    D31
+    D32
+    D33
 *************************************************************
 
 *************************************************************
@@ -194,16 +197,13 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : top_board.GBO
+Generating : Mechanical 10
+      File : top_board.GM10
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Mechanical 10
 
 
 Used DCodes :
-    D12
-    D31
-    D32
-    D33
+    D11
 *************************************************************
 
