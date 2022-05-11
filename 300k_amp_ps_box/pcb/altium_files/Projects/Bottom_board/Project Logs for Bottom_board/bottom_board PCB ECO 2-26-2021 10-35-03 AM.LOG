@@ -1,0 +1,11 @@
+Change Component Comment : Designator=J9 Old Comment=HW-08-10-F-D-457-SM New Comment=HW-08-10-F-D-511-SM
+Change component parameters: Designator = "J9" ("J9"); Footprint = "16 PIN RECEIVER"; UniqueID = "\HXANIZVH" ("\HXANIZVH")
+Added Member To Class: ClassName=bot_schem Member=Component 2.2uF C0805C223K5RACTU
+Added Member To Class: ClassName=bot_schem Member=Component 22nF C0603C225K4PACTU
+Added Member To Class: ClassName=bot_schem Member=Component 220pF C0402C221K5RACTU
+Added Member To Class: ClassName=bot_schem Member=Component J8 PRPC001DFAN-RC
+Added Member To Class: ClassName=bot_schem Member=Component J9 HW-08-10-F-D-511-SM
+Added Member To Class: ClassName=bot_schem Member=Component L1 SRN3015-1R0Y
+Added Member To Class: ClassName=bot_schem Member=Component L2 SRN3015-1R0Y
+Added Member To Class: ClassName=bot_schem Member=Component L3 SRN3015-1R0Y
+Added Member To Class: ClassName=bot_schem Member=Component L4 SRN3015-1R0Y

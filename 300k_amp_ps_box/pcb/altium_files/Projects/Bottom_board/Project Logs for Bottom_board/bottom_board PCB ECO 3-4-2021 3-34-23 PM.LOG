@@ -1,0 +1,2 @@
+Change component parameters: Designator = "J9" ("J9"); Footprint = "16 PIN RECEIVER"; UniqueID = "\NMSNTORC" ("\NMSNTORC")
+Change component parameters (AddParameter): Name = "Source"; Value = "Connector"; VariantName = "[No Variations]"
