@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=Current Check NewDesignator=current_IC
+Change Component Designator: OldDesignator=Current Output NewDesignator=Output_Test
+Change Component Designator: OldDesignator=Voltage Check NewDesignator=voltage_IC
+Change Component Description : Designator=20R1 Old Description= New Description=CRCW060320R0FKEA Checked Res Thick Film 0603 20 Ohm 1% 1/10W 100ppm/C Molded SMD SMD Paper T/R Chip SMD Resistors 0.1
+Change Component Description : Designator=20R2 Old Description= New Description=CRCW060320R0FKEA Checked Res Thick Film 0603 20 Ohm 1% 1/10W 100ppm/C Molded SMD SMD Paper T/R Chip SMD Resistors 0.1

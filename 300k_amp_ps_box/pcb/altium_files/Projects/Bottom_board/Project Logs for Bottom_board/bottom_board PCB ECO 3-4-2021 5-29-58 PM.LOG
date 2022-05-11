@@ -1,0 +1,19 @@
+Added Component: Designator=J9(16 pin receiver)
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J9-01
+Added Pin To Net: NetName=+12V Pin=J9-02
+Added Pin To Net: NetName=DIG_14 Pin=J9-03
+Added Pin To Net: NetName=DIG_1 Pin=J9-04
+Added Pin To Net: NetName=DIG_13 Pin=J9-05
+Added Pin To Net: NetName=DIG_2 Pin=J9-06
+Added Pin To Net: NetName=DIG_12 Pin=J9-07
+Added Pin To Net: NetName=DIG_3 Pin=J9-08
+Added Pin To Net: NetName=DIG_11 Pin=J9-09
+Added Pin To Net: NetName=DIG_4 Pin=J9-10
+Added Pin To Net: NetName=DIG_10 Pin=J9-11
+Added Pin To Net: NetName=DIG_5 Pin=J9-12
+Added Pin To Net: NetName=DIG_9 Pin=J9-13
+Added Pin To Net: NetName=DIG_6 Pin=J9-14
+Added Pin To Net: NetName=DIG_8 Pin=J9-15
+Added Pin To Net: NetName=DIG_7 Pin=J9-16
+Added Member To Class: ClassName=bot_schem Member=Component J9 HW-08-12-F-D-708-SM
