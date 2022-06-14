@@ -1,0 +1,38 @@
+Change Component Designator: OldDesignator=100nF7 NewDesignator=C7
+Change Component Designator: OldDesignator=100nF14 NewDesignator=C14
+Change Component Designator: OldDesignator=100nFC8 NewDesignator=C8
+Change Component Designator: OldDesignator=P4 NewDesignator=Output_Test
+Change Component Designator: OldDesignator=R1 NewDesignator=3R1
+Change Component Designator: OldDesignator=R2 NewDesignator=3R2
+Change Component Designator: OldDesignator=R3 NewDesignator=3R3
+Change Component Designator: OldDesignator=R4 NewDesignator=3R4
+Change Component Designator: OldDesignator=R5 NewDesignator=3R5
+Change Component Designator: OldDesignator=R6 NewDesignator=3R6
+Change Component Designator: OldDesignator=R7 NewDesignator=3R7
+Change Component Designator: OldDesignator=R8 NewDesignator=3R8
+Change Component Designator: OldDesignator=R9 NewDesignator=3R9
+Change Component Designator: OldDesignator=R10 NewDesignator=3R10
+Change Component Designator: OldDesignator=R11 NewDesignator=3R11
+Change Component Designator: OldDesignator=R12 NewDesignator=3R12
+Change Component Designator: OldDesignator=R13 NewDesignator=3R13
+Change Component Designator: OldDesignator=R14 NewDesignator=3R14
+Change Component Designator: OldDesignator=R15 NewDesignator=2kR1
+Change Component Designator: OldDesignator=R16 NewDesignator=2kR2
+Change Component Designator: OldDesignator=R17 NewDesignator=2kR3
+Change Component Designator: OldDesignator=R18 NewDesignator=2kR4
+Change Component Designator: OldDesignator=R19 NewDesignator=2kR5
+Change Component Designator: OldDesignator=R20 NewDesignator=2kR6
+Change Component Designator: OldDesignator=R21 NewDesignator=2kR7
+Change Component Designator: OldDesignator=R22 NewDesignator=2kR8
+Change Component Designator: OldDesignator=R23 NewDesignator=2kR9
+Change Component Designator: OldDesignator=R24 NewDesignator=2kR10
+Change Component Designator: OldDesignator=R25 NewDesignator=2kR11
+Change Component Designator: OldDesignator=R26 NewDesignator=2kR12
+Change Component Designator: OldDesignator=R27 NewDesignator=2kR13
+Change Component Designator: OldDesignator=R28 NewDesignator=2kR14
+Change Class Name : Old Net Name=bot_schem_rev1 New Net Name=bot_schem_rev2
+Added Member To Class: ClassName=bot_schem_rev2 Member=Component 2kR7 CRCW06031K80FKEA
+Added Member To Class: ClassName=bot_schem_rev2 Member=Component 3R14 ERJ-2BQJR30X
+Added Member To Class: ClassName=bot_schem_rev2 Member=Component C14 C0805C104K5RACTU
+Change Room Name: Old Name=bot_schem_rev1 New Name=bot_schem_rev2
+Change Room Scope: Old Scope=InComponentClass('bot_schem_rev1') New Scope=InComponentClass('bot_schem_rev2')

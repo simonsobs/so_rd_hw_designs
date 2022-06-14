@@ -1,4 +1,0 @@
-Change Component Designator: OldDesignator=Filter_Out NewDesignator=V_Filter
-Added Pin To Net: NetName=+12V Pin=22uF-1
-Added Pin To Net: NetName=+12V Pin=L4-2
-Added Pin To Net: NetName=+Line1 Pin=V_Filter-1
