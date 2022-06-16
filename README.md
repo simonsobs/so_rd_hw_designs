@@ -7,7 +7,7 @@ Ultimately, the printed circuit board (PCB) and power supply box designs should 
 ### 300K LNA PCB
 The directories under`300k_amp_ps_box/pcb` contain all the files necessary for editing, fabricating, and viewing the 300K LNA circuit boards.
 `300k_amp_ps_box/pcb/Bottom_board` contains a picture of the electronics schematic for the bottom board, a .step file which is a 3D model of the bottom board, and the gerber files necessary to manufacture the bottom circuit board (under `Project_Outputs_for_Bottom_Board`).
-This same exact structure exists under`300k_amp_ps_box/pcb/Top_board` but instead describes the Top board of the 300K LNA PCB.
+This same exact structure exists under`300k_amp_ps_box/pcb/Top_board` but instead describes the Top board of the 300K LNA PCB. In addition, [here are the assembly documents for both Top and Bottom boards](https://docs.google.com/presentation/d/1A_KDBGtZD-UfWHo1MMT_YvrvhtoMr0XffyKuqTHIMP8/edit?usp=sharing) 
 
 #### Editing and Viewing the 300K LNA PCB with Altium
 The user should copy the contents of the "altium_files" directory and place them into the directory in which their copy of Altium lives. Specifically, the user should:
