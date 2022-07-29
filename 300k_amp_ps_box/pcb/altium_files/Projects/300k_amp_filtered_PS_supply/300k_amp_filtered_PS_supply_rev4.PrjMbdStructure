@@ -1,0 +1,8 @@
+Record=DiagramHierarchy|SourceDocument=300k_ps_board.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\Bottom_board\Bottom_board_rev2.PrjPcb
+Record=SubProject|SourceDocument=300k_ps_board.MbsDoc|ProjectPath=..\Bottom_board\Bottom_board_rev2.PrjPcb
+Record=DiagramHierarchy|SourceDocument=300k_ps_board.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\Top_board\Top_board_rev2.PrjPcb
+Record=SubProject|SourceDocument=300k_ps_board.MbsDoc|ProjectPath=..\Top_board\Top_board_rev2.PrjPcb
+Record=DiagramHierarchy|SourceDocument=300k_ps_board_rev2.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\Bottom_board\Bottom_board_rev4.PrjPcb
+Record=SubProject|SourceDocument=300k_ps_board_rev2.MbsDoc|ProjectPath=..\Bottom_board\Bottom_board_rev4.PrjPcb
+Record=DiagramHierarchy|SourceDocument=300k_ps_board_rev2.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\Top_board\Top_board_rev4.PrjPcb
+Record=SubProject|SourceDocument=300k_ps_board_rev2.MbsDoc|ProjectPath=..\Top_board\Top_board_rev4.PrjPcb
