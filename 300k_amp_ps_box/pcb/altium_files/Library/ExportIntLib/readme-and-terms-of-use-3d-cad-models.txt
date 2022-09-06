@@ -1,13 +1,14 @@
 ﻿
-EN   Your download at 02/05/2021 on PARTcommunity/PARTserver:
+EN   Your download at 08/11/2022 on PARTcommunity/PARTserver/3Dfindit.com:
 
        Dear user,
        
-       attached please find the following file of our 3D CAD download portal PARTcommunity/PARTserver powered by CADENAS:
+       attached please find the following file of our 3D CAD download portal PARTcommunity/PARTserver/3Dfindit.com powered by CADENAS:
 
        
 
-       STEP, SQW-108-01-F-D, SQW-108-01-F-D.stp
+       STEP, HW-09-11-F-D-511-SM, HW-09-11-F-D-511-SM.stp
+       STEP, HW-09-11-F-D-511-SM, HW-09-11-F-D-511-SM.stp
 	
        Information for use:
 
@@ -20,14 +21,25 @@ EN   Your download at 02/05/2021 on PARTcommunity/PARTserver:
 
        
 
-       Please also check terms of use at http://www.cadenas.de/terms-of-use-3d-cad-models
+       Please also check terms of use at https://www.cadenas.de/terms-of-use-3d-cad-models
 
-       
+       This is an automatically generated email from a system email address – please do not respond to it. If you have any questions, please feel free to contact the support directly.
+
        Best regards
 
        Your CADENAS GmbH
        support@cadenas.de
 
+
+
+
+       >> 3DfindIT <<
+       
+       3DfindIT.com is the next dimension visual search engine that crawls billions 
+       of 3D CAD & BIM models in hundreds of manufacturer catalogs available worldwide. 
+       With intelligent search functions such as 3D shape search, 2D sketch & photo search 
+       and parametric text & value input, 3DfindIT.com is the indispensable platform 
+       for architects, planners, engineers and designers.
 
 
        >> Free APP for 3D CAD models <<

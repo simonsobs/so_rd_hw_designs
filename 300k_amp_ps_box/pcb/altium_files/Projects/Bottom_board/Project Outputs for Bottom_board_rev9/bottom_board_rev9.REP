@@ -1,0 +1,270 @@
+*************************************************************
+FileName = bottom_board_rev9.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Overlay
+      File : bottom_board_rev9.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 3
+      File : bottom_board_rev9.GM3
+
+    Adding Layer      : Mechanical 3
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : -12V
+      File : bottom_board_rev9.G2
+
+    Adding Layer      : -12V
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D32
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : bottom_board_rev9.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 5
+      File : bottom_board_rev9.GM5
+
+    Adding Layer      : Mechanical 5
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : bottom_board_rev9.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 29
+      File : bottom_board_rev9.GM29
+
+    Adding Layer      : Mechanical 29
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : bottom_board_rev9.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 30
+      File : bottom_board_rev9.GM30
+
+    Adding Layer      : Mechanical 30
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : bottom_board_rev9.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : bottom_board_rev9.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 16
+      File : bottom_board_rev9.GM16
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : bottom_board_rev9.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : bottom_board_rev9.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : +12V
+      File : bottom_board_rev9.G1
+
+    Adding Layer      : +12V
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D28
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 0
+      File : bottom_board_rev9.GM4
+
+    Adding Layer      : Mechanical 0
+
+
+Used DCodes :
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : bottom_board_rev9.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
