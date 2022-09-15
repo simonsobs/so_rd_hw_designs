@@ -1,0 +1,240 @@
+*************************************************************
+FileName = top_board_rev10.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Layer
+      File : top_board_rev10.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : top_board_rev10.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D30
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : top_board_rev10.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : top_board_rev10.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : silk_dump
+      File : top_board_rev10.GM2
+
+    Adding Layer      : silk_dump
+
+
+Used DCodes :
+    D12
+    D34
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : top_board_rev10.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D25
+    D26
+    D27
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : top_board_rev10.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : top_board_rev10.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : top_board_rev10.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D12
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : +12V
+      File : top_board_rev10.G1
+
+    Adding Layer      : +12V
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+*************************************************************
+
+*************************************************************
+Generating : -12V
+      File : top_board_rev10.G2
+
+    Adding Layer      : -12V
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 10
+      File : top_board_rev10.GM10
+
+    Adding Layer      : Mechanical 10
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 0
+      File : top_board_rev10.GM4
+
+    Adding Layer      : Mechanical 0
+
+
+Used DCodes :
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : top_board_rev10.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+    D33
+    D34
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 12
+      File : top_board_rev10.GM12
+
+    Adding Layer      : Mechanical 12
+
+
+Used DCodes :
+    D38
+*************************************************************
+
