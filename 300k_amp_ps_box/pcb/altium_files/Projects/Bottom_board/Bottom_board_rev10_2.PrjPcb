@@ -125,327 +125,128 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document6]
+DocumentPath=Bottom_board_rev10_2.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Bottom_board_rev9\bottom_board_rev9-RectHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Bottom_board_rev9\bottom_board_rev9.DR1
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Bottom_board_rev9\bottom_board_rev9.DRL
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Bottom_board_rev9\bottom_board_rev9.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Bottom_board_rev9\bottom_board_rev9.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Bottom_board_rev9\bottom_board_rev9.G1
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Bottom_board_rev9\bottom_board_rev9.G2
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Bottom_board_rev9\bottom_board_rev9.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Bottom_board_rev9\bottom_board_rev9.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Bottom_board_rev9\bottom_board_rev9.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Bottom_board_rev9\bottom_board_rev9.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Bottom_board_rev9\bottom_board_rev9.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Bottom_board_rev9\bottom_board_rev9.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Bottom_board_rev9\bottom_board_rev9.GM5
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Bottom_board_rev9\bottom_board_rev9.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Bottom_board_rev9\bottom_board_rev9.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Bottom_board_rev9\bottom_board_rev9.GM29
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Bottom_board_rev9\bottom_board_rev9.GM30
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Bottom_board_rev9\bottom_board_rev9.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Bottom_board_rev9\bottom_board_rev9.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Bottom_board_rev9\bottom_board_rev9.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for Bottom_board_rev9\bottom_board_rev9.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for Bottom_board_rev9\bottom_board_rev9.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for Bottom_board_rev9\bottom_board_rev9.REP
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for Bottom_board_rev9\bottom_board_rev9.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for Bottom_board_rev9\bottom_board_rev9.TX1
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for Bottom_board_rev9\bottom_board_rev9.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for Bottom_board_rev10\bottom_board_rev10-RectHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for Bottom_board_rev10\bottom_board_rev10.DR1
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for Bottom_board_rev10\bottom_board_rev10.DRL
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for Bottom_board_rev10\bottom_board_rev10.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for Bottom_board_rev10\bottom_board_rev10.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for Bottom_board_rev10\bottom_board_rev10.G1
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for Bottom_board_rev10\bottom_board_rev10.G2
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for Bottom_board_rev10\bottom_board_rev10.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for Bottom_board_rev10\bottom_board_rev10.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for Bottom_board_rev10\bottom_board_rev10.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for Bottom_board_rev10\bottom_board_rev10.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for Bottom_board_rev10\bottom_board_rev10.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for Bottom_board_rev10\bottom_board_rev10.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for Bottom_board_rev10\bottom_board_rev10.GM5
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for Bottom_board_rev10\bottom_board_rev10.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs for Bottom_board_rev10\bottom_board_rev10.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs for Bottom_board_rev10\bottom_board_rev10.GM29
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs for Bottom_board_rev10\bottom_board_rev10.GM30
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project Outputs for Bottom_board_rev10\bottom_board_rev10.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=Project Outputs for Bottom_board_rev10\bottom_board_rev10.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=Project Outputs for Bottom_board_rev10\bottom_board_rev10.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=Project Outputs for Bottom_board_rev10\bottom_board_rev10.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=Project Outputs for Bottom_board_rev10\bottom_board_rev10.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument51]
-DocumentPath=Project Outputs for Bottom_board_rev10\bottom_board_rev10.REP
-DItemRevisionGUID=
-
-[GeneratedDocument52]
-DocumentPath=Project Outputs for Bottom_board_rev10\bottom_board_rev10.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument53]
-DocumentPath=Project Outputs for Bottom_board_rev10\bottom_board_rev10.TX1
-DItemRevisionGUID=
-
-[GeneratedDocument54]
-DocumentPath=Project Outputs for Bottom_board_rev10\bottom_board_rev10.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument55]
 DocumentPath=Project Outputs for Bottom_board_rev10_2\bottom_board_rev10_2-RectHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument56]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for Bottom_board_rev10_2\bottom_board_rev10_2.DR1
 DItemRevisionGUID=
 
-[GeneratedDocument57]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for Bottom_board_rev10_2\bottom_board_rev10_2.DRL
 DItemRevisionGUID=
 
-[GeneratedDocument58]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Bottom_board_rev10_2\bottom_board_rev10_2.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument59]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for Bottom_board_rev10_2\bottom_board_rev10_2.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument60]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Bottom_board_rev10_2\bottom_board_rev10_2.G1
 DItemRevisionGUID=
 
-[GeneratedDocument61]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Bottom_board_rev10_2\bottom_board_rev10_2.G2
 DItemRevisionGUID=
 
-[GeneratedDocument62]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for Bottom_board_rev10_2\bottom_board_rev10_2.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument63]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Bottom_board_rev10_2\bottom_board_rev10_2.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument64]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for Bottom_board_rev10_2\bottom_board_rev10_2.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument65]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for Bottom_board_rev10_2\bottom_board_rev10_2.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument66]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for Bottom_board_rev10_2\bottom_board_rev10_2.GM3
 DItemRevisionGUID=
 
-[GeneratedDocument67]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for Bottom_board_rev10_2\bottom_board_rev10_2.GM4
 DItemRevisionGUID=
 
-[GeneratedDocument68]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for Bottom_board_rev10_2\bottom_board_rev10_2.GM5
 DItemRevisionGUID=
 
-[GeneratedDocument69]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for Bottom_board_rev10_2\bottom_board_rev10_2.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument70]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for Bottom_board_rev10_2\bottom_board_rev10_2.GM16
 DItemRevisionGUID=
 
-[GeneratedDocument71]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for Bottom_board_rev10_2\bottom_board_rev10_2.GM29
 DItemRevisionGUID=
 
-[GeneratedDocument72]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for Bottom_board_rev10_2\bottom_board_rev10_2.GM30
 DItemRevisionGUID=
 
-[GeneratedDocument73]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for Bottom_board_rev10_2\bottom_board_rev10_2.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument74]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for Bottom_board_rev10_2\bottom_board_rev10_2.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument75]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for Bottom_board_rev10_2\bottom_board_rev10_2.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument76]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for Bottom_board_rev10_2\bottom_board_rev10_2.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument77]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for Bottom_board_rev10_2\bottom_board_rev10_2.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument78]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for Bottom_board_rev10_2\bottom_board_rev10_2.REP
 DItemRevisionGUID=
 
-[GeneratedDocument79]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for Bottom_board_rev10_2\bottom_board_rev10_2.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument80]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for Bottom_board_rev10_2\bottom_board_rev10_2.TX1
 DItemRevisionGUID=
 
-[GeneratedDocument81]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for Bottom_board_rev10_2\bottom_board_rev10_2.TXT
 DItemRevisionGUID=
 
