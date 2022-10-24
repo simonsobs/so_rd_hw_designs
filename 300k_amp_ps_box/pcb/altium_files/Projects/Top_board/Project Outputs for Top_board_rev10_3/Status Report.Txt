@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Top_board_rev10_3.PrjPcb]
+   Generated File[top_board_rev10_3.TXT]
+   Generated File[top_board_rev10_3-RectHoles.TXT]
+   Generated File[top_board_rev10_3.DRL]
+   Generated File[top_board_rev10_3.LDP]
+   Generated File[top_board_rev10_3.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 12:36:41 PM On 10/24/2022
