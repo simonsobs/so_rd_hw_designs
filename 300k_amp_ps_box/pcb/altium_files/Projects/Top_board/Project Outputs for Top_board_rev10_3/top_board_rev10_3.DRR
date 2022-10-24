@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: top_board_rev10_3.PcbDoc   10/24/2022  12:36:41 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : top_board_rev10_3.TXT
+ASCII RectHoles File : top_board_rev10_3-RectHoles.TXT
+EIA File   : top_board_rev10_3.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      24mil (0.599mm)                                           Rectangle         30        PTH        0.00inch (0.00mm)
+T2      28mil (0.711mm)                                           Round             122       PTH        0.00inch (0.00mm)
+T3      79mil (1.999mm)                                           Round             20        PTH        0.00inch (0.00mm)
+T4      124mil (3.15mm)                                           Round             10        PTH        0.00inch (0.00mm)
+T5      98mil (2.499mm)                                           Round             4         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              186
+
+Total Processing Time (hh:mm:ss) : 00:00:00
