@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: bottom_board_rev10_3.PcbDoc   10/24/2022  12:28:05 PM
+NCDrill File Report For: bottom_board_rev10_3.PcbDoc   6/23/2023  4:56:22 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -9,15 +9,14 @@ EIA File   : bottom_board_rev10_3.DRL
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      24mil (0.599mm)                                           Rectangle         42        PTH        0.00inch (0.00mm)
-T2      28mil (0.711mm)                                           Round             35        PTH        0.00inch (0.00mm)
-T3      39mil (1.001mm)                                           Round             4         PTH        0.00inch (0.00mm)
-T4      43mil (1.1mm)                                             Round             20        PTH        0.00inch (0.00mm)
-T5      79mil (1.999mm)                                           Round             28        PTH        0.00inch (0.00mm)
-T6      124mil (3.15mm)                                           Round             14        PTH        0.00inch (0.00mm)
-T7      98mil (2.499mm)                                           Round             4         NPTH       0.00inch (0.00mm)
+T1      24mil (0.599mm)                                           Rectangle         42        PTH        16.46inch (418.00mm)
+T2      28mil (0.711mm)                                           Round             35        PTH        16.51inch (419.25mm)
+T3      43mil (1.1mm)                                             Round             20        PTH        3.44inch (87.50mm)
+T4      79mil (1.999mm)                                           Round             28        PTH        10.19inch (258.79mm)
+T5      124mil (3.15mm)                                           Round             14        PTH        7.35inch (186.80mm)
+T6      98mil (2.499mm)                                           Round             4         NPTH       12.47inch (316.62mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              147
+Totals                                                                              143
 Layer Pair : +12V to -12V
 ASCII RoundHoles File : bottom_board_rev10_3.TX1
 EIA File   : bottom_board_rev10_3.DR1
@@ -28,6 +27,6 @@ T2      28mil (0.711mm)                                           Round         
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              1
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              148
+Totals                                                                              144
 
 Total Processing Time (hh:mm:ss) : 00:00:00
